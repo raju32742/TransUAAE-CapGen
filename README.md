@@ -15,11 +15,11 @@ Captioning Whole Slide Images (WSIs) for pathological analysis is an essential b
   <table>
     <tr>
       <td>
-        <img src="Photos/training_loss.jpg" alt="Training Loss" width="400"/>
+        <img src="Figures/training_loss.jpg" alt="Training Loss" width="400"/>
         <p align="center">(a) Training Loss</p>
       </td>
       <td>
-        <img src="Photos/validation_loss.jpg" alt="Validation Loss" width="400"/>
+        <img src="Figures/validation_loss.jpg" alt="Validation Loss" width="400"/>
         <p align="center">(b) Validation Loss</p>
       </td>
     </tr>
