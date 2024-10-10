@@ -24,7 +24,7 @@ Captioning Whole Slide Images (WSIs) for pathological analysis is an essential b
       </td>
     </tr>
   </table>
-  <p><em>Figure: Loss curve representation on the PatchGastricADC22 dataset using the proposed TransUAAE-CapGen model along with four baseline architectures. (a) Training loss (b) Validation loss.</em></p>
+  <p><em>Figure 2: Loss curve representation on the PatchGastricADC22 dataset using the proposed TransUAAE-CapGen model along with four baseline architectures. (a) Training loss (b) Validation loss.</em></p>
 </div>
 
 ## Contact
